@@ -10,5 +10,5 @@ func main() {
 }
 
 func hello() string {
-	return "hello glang"
+	return "hello golang"
 }
